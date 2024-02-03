@@ -1,0 +1,3 @@
+By now you have learned how to load external data and how to map it to visual elements like a bar chart, scatter plot, and line chart. But very often you have to deal with a continuous data stream rather than a static CSV file. Dynamic data often requires more sophisticated user interfaces that allow users to interact with the data (e.g. filter, sort, navigate).
+
+Instead of removing and redrawing visualizations each time new data arrives, update only affected components and focus on loading times and smooth transitions. We will accomplish this by using the D3 update pattern (enter → update → exit).

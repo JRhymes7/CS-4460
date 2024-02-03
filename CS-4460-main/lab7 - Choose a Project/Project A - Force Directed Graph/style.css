@@ -1,0 +1,32 @@
+
+/* for legend */
+.dot {
+    height: 16px;
+    width: 16px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+  }  
+
+/* for legend */
+.show{
+    height: 14px;
+    width: 14px;
+    background-color: rgb(10, 82, 39);
+}
+
+/* for legend */
+.cast{
+    height: 10px;
+    width: 10px;
+    background-color: rgb(7, 27, 239);
+}
+
+/* for legend */
+.line{
+    width: 30px;
+    height: 2px;
+    border-bottom: 3px solid #807c7c;
+    vertical-align: middle;
+    display: inline-block;
+}
